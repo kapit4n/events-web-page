@@ -1,6 +1,9 @@
 # EVENTS WEB PAGE
 * Web page designed with [Boostrap](http://getbootstrap.com/)
 
+## Home
+![Home](https://raw.githubusercontent.com/kapit4n/events-web-page/master/mockups/home.png)
+
 ## DONE
 * Image borders, shadowns
 * Carousel
