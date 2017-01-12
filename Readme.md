@@ -1,5 +1,5 @@
 # EVENTS WEB PAGE
-* Web page designed with Bootstrap
+* Web page designed with [Boostrap](http://getbootstrap.com/)
 
 ## DONE
 * Image borders, shadowns
