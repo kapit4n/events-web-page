@@ -1,0 +1,29 @@
+a {
+    color: white;
+}
+
+h1 {
+    color: #FFFFFF;
+    background-color: #339933;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #FFFFFF;
+    background-color: #267326;
+}
+
+.nav-link {
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+.img-car {
+    height: 400px;
+}
