@@ -1,5 +1,5 @@
 # EVENTS WEB PAGE
-* Web page designed with [Boostrap](http://getbootstrap.com/)
+* Web page designed with [Bootstrap](http://getbootstrap.com/)
 
 ## Home
 ![Home](https://raw.githubusercontent.com/kapit4n/events-web-page/master/mockups/events.png)
