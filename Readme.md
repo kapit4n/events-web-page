@@ -4,6 +4,10 @@
 ## Home
 ![Home](https://raw.githubusercontent.com/kapit4n/events-web-page/master/mockups/events.png)
 
+ ## Run
+* node server.js
+
+
 ## DONE
 * Image borders, shadowns
 * Carousel
